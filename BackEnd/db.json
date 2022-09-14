@@ -1,4 +1,4 @@
-[
+
     {
         "deals": [{
             "prodName": "Laptop 1",
@@ -35,7 +35,11 @@
             "prodName": "Mobile 1",
             "image": "Image is here",
             "prodId": 4
+        },
+        {
+            "prodName": "Mobile 2",
+            "image": "Image is here",
+            "prodId": 5
         }
         ]
     }
-]
